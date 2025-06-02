@@ -1,3 +1,3 @@
 # Tensor-Networks
 
-This repo is for the GGRP 2024 participants in the Tensor Networks project
+This repo contains my code from GGRP 2024 Tensor Networks project aimed at exploring tensor network for dimensionality reduction.
